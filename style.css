@@ -1,6 +1,6 @@
 body{
-background-color: aqua;
-color:darkblue;
+background-color: lightgreen;
+color:green;
 font-family: cursive;
 }
 #title{
@@ -30,7 +30,7 @@ width:100px;
 height:50px;
 }
 #analyze{
-    background-color:lightskyblue;
+    background-color:lightblue;
     width:100px;
 height:50px;
     }
